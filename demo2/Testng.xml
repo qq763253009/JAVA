@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="我的第一个自动化案例" preserve-order="true" parallel="classes" tjread-coint="1">
+    <test name = "功能一">
+        <classes>
+            <class name="com.example.cases.DemoTest">
+                <methods><include name="AfterTest4"></include></methods>
+            </class>
+        </classes>
+
+
+    </test>
+</suite>
